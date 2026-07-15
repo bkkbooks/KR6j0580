@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0580/v1
 canonical_location: https://kanripo.org/bkk/KR6j0580/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說一切如來名號陀羅尼經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0580_000.yaml, hash: 'sha256:d77c2d5de46ccbba2a76155619b80f9c0dac09b0f8f5cfbb2bfdb4f2cac641c9'}
-  - {seq: 1, filename: KR6j0580_001.yaml, hash: 'sha256:9e74bb8667ba4c588513a3077a585c7a31b2a9c5590f5a6003358986742a4a17'}
+  - {seq: 1, filename: KR6j0580_001.yaml, hash: 'sha256:71486ea9af7590d5fe2ab9866315e0a2c42d0e42d4f439ca64ad65651e0cce0a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0580_000.markers.yaml, hash: 'sha256:35d5f1d39b5f03caf8c7f686f7606ef1b5b4729b788a8f2f665cd701a871939c'}
-  - {seq: 1, role: markers, filename: assets/KR6j0580_001.markers.yaml, hash: 'sha256:79eb5a4e48e2580cd8a8cc29dc5b86343846ece93c07ec028da47430a6b40ab1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0580_001.markers.yaml, hash: 'sha256:b2b401331cf83ab3b05940b73beefc9ea0cb2c1f5a41854bd219e6ca38996ef4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說一切如來名號陀羅尼經
   type: juan
   level: 1
-hash: sha256:b5579b43dac5b290ea046ab1e10103b7ee38afc99bd37a6bdc31e61110f6a98f
+hash: sha256:37b4474b3bad52d1de135f95fdd026e38f82f6361356c17743b13bd7b5e37a1b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
